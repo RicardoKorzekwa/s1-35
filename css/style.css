@@ -1,0 +1,30 @@
+body, main, section, h1, h2{
+    border: 0;
+    
+    
+}
+main{
+    display: flex;
+    width: 500px;
+    height: auto;
+    border: 1px solid #1b1a28;
+    background-color: #5380dc;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    }
+section{   
+    width: 400px;
+    background-color: white;
+    text-align: center;
+    margin: 30px;
+    
+}
+h1{
+    font-size: 25px;
+    color: #205ec2;
+}
+h2{
+    font-size: 18px;
+    font-weight: normal;
+}
